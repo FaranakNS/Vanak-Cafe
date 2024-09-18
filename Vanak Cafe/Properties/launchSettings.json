@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vanak Cafe": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
